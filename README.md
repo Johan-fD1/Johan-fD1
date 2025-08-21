@@ -5,3 +5,4 @@ I am a junior at Jones County high School, doing my school's Programming Games, 
 - 🏆 I am proficient in HTML, Javascript, and CSS
 - 👉 I am looking to go cybersecurity for the Navy
 - 👉 I am learning Python and open to any project ideas
+
