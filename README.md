@@ -6,4 +6,4 @@ I am a junior at Jones County high School, doing my school's Programming Games, 
 
 - 🏆 I am proficient in HTML, Javascript, and CSS
 - 👉 I am learning Python and open to any project ideas
-
+- 💡 I enjoy vibe coding
