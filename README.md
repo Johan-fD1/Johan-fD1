@@ -1,4 +1,3 @@
-<img width="3400" height="920" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/9a0d6f22-927c-487a-8627-6726f241c088" />
 
 
 ### Hi I'm Johan.
